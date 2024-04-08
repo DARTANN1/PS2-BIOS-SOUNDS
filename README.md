@@ -1,7 +1,7 @@
 # PS2 BIOS SOUNDS
 replaces button over and click sounds
 
-Reuploaded version of [SamSWAT's Reflex Sights Rework](https://hub.sp-tarkov.com/files/file/1028-ps2-bios-sounds).
+Reuploaded version of [SamSWAT's Reflex Sights Rework](https://hub.sp-tarkov.com/files/file/1028-ps2-bios-sounds)
 [SamSWAT](https://hub.sp-tarkov.com/user/1652-samswat) - creator of the original mod
 
 ## Installation
